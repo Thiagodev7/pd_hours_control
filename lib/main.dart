@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:pd_hours_control/page/home/home_page.dart';
+import 'package:pd_hours_control/app/home/home_page.dart';
 
 void main() {
   runApp(const MyApp());
